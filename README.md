@@ -75,6 +75,9 @@ Contribuez ici : [Ajouter Contribution](/data/waxtane.csv)
 | 50 | Dama gueuméntou                     | J&#039;ai sommeil                        | I feel sleepy                                |
 | 51 | Dama beug nelaw                     | Je veux dormir                      | I want to sleep                              |
 | 52 | Fane nga dieum ni ?                 | Où vas-tu ?                         | Where are you going ?                        |
+| 53 | Mangi jéggeulu                      | Je suis désolé                      | I&#039;m sorry                                    |
+| 54 | Damay dox                           | Je marche                           | I&#039;m walking                                  |
+| 55 | Douma meun nieuw                    | Je peux pas venir                   | I can&#039;t come                                 |
 
   
   
